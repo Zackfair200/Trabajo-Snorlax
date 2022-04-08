@@ -3,7 +3,15 @@
   color: black;
 }
 
+html,body{
+  height: 100%;
+}
+
+.cabeza{
+  height: 10%;
+}
+
 .cuerpo{
-  height: 80%;
+  height: 90%;
   background-image: url(../assets/FondoPagina.jpg);
 }
