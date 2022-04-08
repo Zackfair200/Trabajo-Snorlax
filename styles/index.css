@@ -2,3 +2,8 @@
   font-family: sans-serif;
   color: black;
 }
+
+.cuerpo{
+  height: 80%;
+  background-image: url(../assets/FondoPagina.jpg);
+}
